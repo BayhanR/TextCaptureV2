@@ -1,0 +1,17 @@
+D:\Edu\VS2020\CaptureText2\bin\Debug\x86\leptonica-1.82.0.dll
+D:\Edu\VS2020\CaptureText2\bin\Debug\x86\tesseract50.dll
+D:\Edu\VS2020\CaptureText2\bin\Debug\x64\leptonica-1.82.0.dll
+D:\Edu\VS2020\CaptureText2\bin\Debug\x64\tesseract50.dll
+D:\Edu\VS2020\CaptureText2\bin\Debug\CaptureText2.exe.config
+D:\Edu\VS2020\CaptureText2\bin\Debug\CaptureText2.exe
+D:\Edu\VS2020\CaptureText2\bin\Debug\CaptureText2.pdb
+D:\Edu\VS2020\CaptureText2\bin\Debug\Tesseract.dll
+D:\Edu\VS2020\CaptureText2\obj\Debug\CaptureText2.csproj.AssemblyReference.cache
+D:\Edu\VS2020\CaptureText2\obj\Debug\CaptureText2.csproj.SuggestedBindingRedirects.cache
+D:\Edu\VS2020\CaptureText2\obj\Debug\CaptureText2.Form1.resources
+D:\Edu\VS2020\CaptureText2\obj\Debug\CaptureText2.Properties.Resources.resources
+D:\Edu\VS2020\CaptureText2\obj\Debug\CaptureText2.csproj.GenerateResource.cache
+D:\Edu\VS2020\CaptureText2\obj\Debug\CaptureText2.csproj.CoreCompileInputs.cache
+D:\Edu\VS2020\CaptureText2\obj\Debug\CaptureText2.csproj.CopyComplete
+D:\Edu\VS2020\CaptureText2\obj\Debug\CaptureText2.exe
+D:\Edu\VS2020\CaptureText2\obj\Debug\CaptureText2.pdb
